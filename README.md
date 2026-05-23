@@ -14,7 +14,7 @@
 ### About Me
 I am a developer with a passion for crafting intelligent agents, full-stack web applications, and automation tools. I hold a certification in **Advanced SQL** and constantly explore new technologies to build scalable and practical solutions.
 
-I am also Pursuing Diploma in Programming from IIT Madras BS Degree Program where I have learnt about many coding languages.
+I am also currently pursuing Diploma in Programming from IIT Madras BS Degree Program where I, so far, learnt many coding languages.
 
 ### Tech Stack
 * **Languages:** Python, JavaScript, TypeScript, HTML, CSS, SQL
