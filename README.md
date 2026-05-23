@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harsh Salunkhe</h1>
 
 <p align="center">
-  <em>Building software that solves real problems. Focused on agentic AI, full-stack development, and workflow automation.</em>
+  <em>3rd-year AI/ML student @ SIT Pune crafting AI agents and full-stack apps. Passionate about solving real-world problems. When I'm not coding, you can find me writing poetry, playing volleyball, or at the chessboard.</em>
 </p>
 
 <p align="center">
