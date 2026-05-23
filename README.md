@@ -32,21 +32,8 @@ I am a developer with a passion for crafting intelligent agents, full-stack web 
 * [campus-waste-management](https://github.com/HarshSalunkhe2005/campus-waste-management): A web application to manage food waste donations between campus canteens and NGOs.
 * [SIT-Campus-App](https://github.com/HarshSalunkhe2005/SIT-Campus-App): Java Application to Report Issues on Campus.
 * [quiz-project](https://github.com/HarshSalunkhe2005/quiz-project): Sunday Sprint Quiz - A mobile-first, high-tech quiz platform for school students.
-* [IG-Bot](https://github.com/HarshSalunkhe2005/IG-Bot): Automated IG.
-* [Tracker-X](https://github.com/HarshSalunkhe2005/Tracker-X)
-* [ResultScout](https://github.com/HarshSalunkhe2005/ResultScout)
-* [Retail-Agentic-AI-TestUI](https://github.com/HarshSalunkhe2005/Retail-Agentic-AI-TestUI)
-* [Solver-Project](https://github.com/HarshSalunkhe2005/Solver-Project)
-* [DS-Birthday](https://github.com/HarshSalunkhe2005/DS-Birthday)
-* [JAVA-Assignments-SEM-4-](https://github.com/HarshSalunkhe2005/JAVA-Assignments-SEM-4-)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshSalunkhe2005&show_icons=true&theme=transparent&hide_border=true" alt="Harsh's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSalunkhe2005&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+* [IG-Bot](https://github.com/HarshSalunkhe2005/IG-Bot): Automated Instagram workflows.
+* [Tracker-X](https://github.com/HarshSalunkhe2005/Tracker-X): A tracking utility to monitor specific metrics and tasks.
+* [ResultScout](https://github.com/HarshSalunkhe2005/ResultScout): An application designed for exploring and fetching result data.
+* [Retail-Agentic-AI-TestUI](https://github.com/HarshSalunkhe2005/Retail-Agentic-AI-TestUI): Frontend testing interface for the Retail Agentic AI project.
+* [Solver-Project](https://github.com/HarshSalunkhe2005/Solver-Project): Algorithmic solutions and problem-solving utilities.
