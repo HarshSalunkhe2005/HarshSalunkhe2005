@@ -55,6 +55,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSalunkhe2005&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 <p align="left">
@@ -65,4 +73,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
