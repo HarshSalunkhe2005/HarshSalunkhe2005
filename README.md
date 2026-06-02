@@ -9,23 +9,23 @@
 </p>
 
 <p align="center">
-  🎓 <strong>AI/ML Engineer | Full-Stack Developer | Innovator</strong><br>
+  <strong>AI/ML Engineer | Full-Stack Developer | Innovator</strong><br>
   <i>Passionate about crafting intelligent agents, highly scalable web apps, and offline-first PWAs.</i>
 </p>
 
 ---
 
-### 🌱 About Me
+### About Me
 
-- 🧠 **3rd-year AI/ML student** at **SIT Pune**, diving deep into machine learning and intelligent systems.
-- 🎓 Currently pursuing a **Diploma in Programming** from the **IIT Madras BS Degree Program**.
-- 🛠️ I love building **offline-first PWAs**, **Agentic AI systems**, and **scalable full-stack apps**.
-- 📜 Hold a certification in **Advanced SQL**.
-- ⚡ **Fun Fact:** When I'm not coding, you can find me writing poetry ✍️, playing volleyball 🏐, or strategizing at the chessboard ♟️.
+- **3rd-year AI/ML student** at **SIT Pune**, diving deep into machine learning and intelligent systems.
+- Currently pursuing a **Diploma in Programming** from the **IIT Madras BS Degree Program**.
+- I love building **offline-first PWAs**, **Agentic AI systems**, and **scalable full-stack apps**.
+- Hold a certification in **Advanced SQL**.
+- **Fun Fact:** When I'm not coding, you can find me writing poetry ✍️, playing volleyball 🏐, or strategizing at the chessboard ♟️.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**<br>
 <p align="left">
@@ -49,15 +49,15 @@
 
 ---
 
-### 🔭 What I'm Up To
+### What I'm Up To
 
-- 🚀 **Suites:** Just built a blazing-fast, strictly offline Progressive Web App (PWA) toolkit for Image & PDF processing using WebAssembly.
-- 🤖 **Retail Agentic AI:** Developing an AI agent architecture tailored for the retail sector in Python.
-- 🎓 **Campus Tools:** Building practical web apps for campus life, like the *Campus Waste Management* system and *SIT Campus App*.
+- **Suites:** Just built a blazing-fast, strictly offline Progressive Web App (PWA) toolkit for Image & PDF processing using WebAssembly.
+- **Retail Agentic AI:** Developing an AI agent architecture tailored for the retail sector in Python.
+- **Campus Tools:** Building practical web apps for campus life, like the *Campus Waste Management* system and *SIT Campus App*.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSalunkhe2005&theme=radium&hide_border=true" alt="GitHub Streak" />
@@ -65,7 +65,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-salunkhe-25855a257/" target="_blank">
