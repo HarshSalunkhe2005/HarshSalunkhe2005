@@ -51,13 +51,19 @@
 
 ### What I'm Up To
 
-- **Suites:** Just built a blazing-fast, strictly offline Progressive Web App (PWA) toolkit for Image & PDF processing using WebAssembly.
-- **Retail Agentic AI:** Developing an AI agent architecture tailored for the retail sector in Python.
-- **Campus Tools:** Building practical web apps for campus life, like the *Campus Waste Management* system and *SIT Campus App*.
+- **ChainBreach:** Building a crypto wallet attribution and forensics tool for Smart India Hackathon, tracing funds across VASP wallets.
+- **Tempo:** Developing an adaptive chess trainer that learns your play style from your own games and auto-adjusts difficulty, instead of a fixed-ELO bot.
+- **Weaver:** Built a visual, self-healing web scraper on Bright Data Scraper Studio for a hackathon — point, click, and it repairs itself when a site changes.
+- **Kalaza:** Building an Android care-coordination app with live QR scanning and a notification/alert system.
 
 ---
 
 ### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshSalunkhe2005&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSalunkhe2005&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSalunkhe2005&theme=radium&hide_border=true" alt="GitHub Streak" />
