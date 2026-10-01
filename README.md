@@ -65,8 +65,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshSalunkhe2005&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSalunkhe2005&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshSalunkhe2005&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshSalunkhe2005&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
