@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -55,6 +57,8 @@
 - **Tempo:** Developing an adaptive chess trainer that learns your play style from your own games and auto-adjusts difficulty, instead of a fixed-ELO bot.
 - **Weaver:** Built a visual, self-healing web scraper on Bright Data Scraper Studio for a hackathon — point, click, and it repairs itself when a site changes.
 - **Kalaza:** Building an Android care-coordination app with live QR scanning and a notification/alert system.
+- **Lecturify:** A local, AI-powered batch note-taking app for classrooms.
+- **UI-LAB:** A personal reference library of frontend patterns, scroll effects and transitions.
 
 ---
 
@@ -66,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSalunkhe2005&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HarshSalunkhe2005&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
