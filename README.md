@@ -1,83 +1,21 @@
-<h1 align="center">
-  Hi there, I'm Harsh Salunkhe <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="30px">
-</h1>
+# 💫 About Me:
+🔭 I’m currently working on ChainBreach (SIH), Kalaza Care and UI-LAB<br>🌱 I’m currently learning deep learning and agentic AI<br>💬 Ask me about Python, TypeScript, Kotlin and building hackathon projects<br>📍 Based in Pune, Maharashtra
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=AI%2FML+Student+%40+SIT+Pune;Full-Stack+Web+Developer;Agentic+AI+Builder;IIT+Madras+BS+Programming+Student" alt="Typing SVG" />
-  </a>
-</p>
 
-<p align="center">
-  <strong>AI/ML Engineer | Full-Stack Developer | Innovator</strong><br>
-  <i>Passionate about crafting intelligent agents, highly scalable web apps, and offline-first PWAs.</i>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HarshSalunkhe2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HarshSalunkhe2005&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshSalunkhe2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarshSalunkhe2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### About Me
-
-- **3rd-year AI/ML student** at **SIT Pune**, diving deep into machine learning and intelligent systems.
-- Currently pursuing a **Diploma in Programming** from the **IIT Madras BS Degree Program**.
-- I love building **offline-first PWAs**, **Agentic AI systems**, and **scalable full-stack apps**.
-- Hold a certification in **Advanced SQL**.
-- **Fun Fact:** When I'm not coding, you can find me writing poetry ✍️, playing volleyball 🏐, or strategizing at the chessboard ♟️.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HarshSalunkhe2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HarshSalunkhe2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Tech Stack
-
-**Languages**<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-**Frameworks & Tools**<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### What I'm Up To
-
-- **ChainBreach:** Building a crypto wallet attribution and forensics tool for Smart India Hackathon, tracing funds across VASP wallets.
-- **Tempo:** Developing an adaptive chess trainer that learns your play style from your own games and auto-adjusts difficulty, instead of a fixed-ELO bot.
-- **Weaver:** Built a visual, self-healing web scraper on Bright Data Scraper Studio for a hackathon — point, click, and it repairs itself when a site changes.
-- **Kalaza:** Building an Android care-coordination app with live QR scanning and a notification/alert system.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshSalunkhe2005&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSalunkhe2005&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSalunkhe2005&theme=radium&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh-salunkhe-25855a257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/harsh_salunkhe06/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
